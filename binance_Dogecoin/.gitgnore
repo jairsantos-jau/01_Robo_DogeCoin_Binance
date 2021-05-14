@@ -1,0 +1,6 @@
+
+npm init -y
+npm install axios dotenv
+
+.env
+node_modles
